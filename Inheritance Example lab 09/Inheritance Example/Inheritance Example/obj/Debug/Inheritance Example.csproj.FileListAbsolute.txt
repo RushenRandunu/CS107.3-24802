@@ -1,0 +1,8 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\bin\Debug\Inheritance Example.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\bin\Debug\Inheritance Example.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\bin\Debug\Inheritance Example.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.pdb
